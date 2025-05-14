@@ -14,8 +14,8 @@ m3 V65 b4 V7 ||
 Form: Theme b
 
 m4 i
-m5 I6/III b3 Vd/III
-m6 I6/III b3 Vd/III
+m5 I6/III b3 V42/III
+m6 I6/III b3 V42/III
 m7 I6/III b2 IV/III b3 Cad64/III b4 V/III ||
 
 Form: Theme c
@@ -42,8 +42,8 @@ m19 V65 ||
 Form: 1 b
 
 m20 i
-m21 I6/III b3 Vd/III
-m22 I6/III b3 Vd/III
+m21 I6/III b3 V42/III
+m22 I6/III b3 V42/III
 m23 I6/III b2 IV/III b3 Cad64/III b4 V/III ||
 
 Form: 1 c
@@ -70,8 +70,8 @@ m35 V6 ||
 Form: 2 b
 
 m36 i
-m37 I6/III b3 Vd/III
-m38 I6/III b3 Vd/III
+m37 I6/III b3 V42/III
+m38 I6/III b3 V42/III
 m39 I6/III b2 IV7/III b3 Cad64/III b4 V/III ||
 
 Form: 2 c
@@ -98,8 +98,8 @@ m51 viio7 b3 V65 ||
 Form: 3 b
 
 m52 i
-m53 I6/III b3 Vd/III
-m54 I6/III b3 Vd/III
+m53 I6/III b3 V42/III
+m54 I6/III b3 V42/III
 m55 I6/III b2 ii6/III b3 Cad64/III b4 V7/III ||
 
 Form: 3 c
@@ -126,8 +126,8 @@ m67 V65 ||
 Form: 4 b
 
 m68 i
-m69 I6/III b3 Vd/III
-m70 I6/III b3 Vd/III
+m69 I6/III b3 V42/III
+m70 I6/III b3 V42/III
 m71 I6/III b2 IV/III b3 Cad64/III b4 V7/III ||
 
 Form: 4 c
@@ -182,8 +182,8 @@ m99 viio42 b3 V ||
 Form: 6 b
 
 m100 i
-m101 I6/III b3 Vd/III
-m102 I6/III b3 Vd/III
+m101 I6/III b3 V42/III
+m102 I6/III b3 V42/III
 m103 I6/III b2.5 ii6/III b3 Cad64/III b4 V7/III ||
 
 Form: 6 c
@@ -210,8 +210,8 @@ m115 V65 ||
 Form: 7 b
 
 m116 i
-m117 I6/III b3 Vd/III
-m118 I6/III b3 Vd/III
+m117 I6/III b3 V42/III
+m118 I6/III b3 V42/III
 m119 I6/III b2 ii6/III b3 Cad64/III b4 V7/III ||
 
 Form: 7 c
@@ -238,8 +238,8 @@ m131 V65 ||
 Form: 8 b
 
 m132 i
-m133 I6/III b3 Vd/III
-m134 I6/III b3 Vd/III
+m133 I6/III b3 V42/III
+m134 I6/III b3 V42/III
 m135 I6/III b2 ii65/III b3 Cad64/III b4 V7/III ||
 
 Form: 8 c
@@ -270,9 +270,9 @@ m151 I ||
 Form: 9 b
 
 m152 I
-m153 Vd/V
+m153 V42/V
 m154 I6/V
-m155 Vd/V
+m155 V42/V
 m156 I6/V
 m157 IV/V
 m158 ii6/V b3 Cad64/V b4 V7/V
@@ -294,7 +294,7 @@ Form: 9 d
 m168 I
 m169 viiø65
 m170 I6
-m171 Vd
+m171 V42
 m172 I6
 m173 IV
 m174 ii6 b3 V7
